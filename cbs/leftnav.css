@@ -1,0 +1,29 @@
+<style>
+.navigation
+{
+    margin-left: 0;
+    padding-left: 0;
+    list-style-type: none;
+	height:30px;
+}
+
+.navigation a
+{
+    display: block;
+    text-decoration: none;
+    background: #036;
+    color: #fff;
+    padding: .2em .5em;
+    border-bottom: 1px solid #fff;
+    width: 12em;
+	height:30px;
+}
+
+.navigation a:hover
+{
+    background: #E3E3FD;
+    color: #000;
+}
+
+
+</style>
